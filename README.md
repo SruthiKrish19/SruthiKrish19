@@ -5,7 +5,7 @@ Hi there! I’m Sruthi, a passionate web developer.
 
 ## 🌐 Socials:
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 <div>
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="400em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiKrish19&layout=compact&show_icons=true" width="400em"/>
