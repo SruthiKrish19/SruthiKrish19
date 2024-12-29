@@ -11,9 +11,10 @@ Hi there! I’m Sruthi, a passionate web developer.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiKrish19&layout=compact&show_icons=true" width="400em"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SruthiKrish19" width="400em" height="200em" />
+  <br>
+  <strong>Visitor Count</strong>
+  <br><br>
+  <img src="https://profile-counter.glitch.me/SruthiKrish19/count.svg" width="300em" />
 </div>
-
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/SruthiKrish19/count.svg)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SruthiKrish19&include_all_commits=false&count_private=false" width="400em"/> -->
