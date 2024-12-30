@@ -8,6 +8,9 @@ Hi there! I’m Sruthi, a passionate web developer.
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/) [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com) [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/) [![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?logo=adobe&logoColor=white)](https://www.adobe.com/) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)](https://www.canva.com/)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SruthiKrish19/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sruthi-krishnakumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sruthi_.__/)
+
 ## 📊 GitHub Stats:
 <div>
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="400em"/>
@@ -16,10 +19,5 @@ Hi there! I’m Sruthi, a passionate web developer.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SruthiKrish19" width="400em" height="200em" />
 </div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SruthiKrish19/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sruthi-krishnakumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sruthi_.__/)
-
-## Visitor Count
+## 🔢 Profile Visitor Count
 <img src="https://profile-counter.glitch.me/SruthiKrish19/count.svg" />
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=SruthiKrish19&include_all_commits=false&count_private=false" width="400em"/> -->
