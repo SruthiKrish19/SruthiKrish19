@@ -1,5 +1,9 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="200em"/>
+
 ## 💫 About Me:
-Hi there! I’m Sruthi, a passionate web developer.
+Hi there! I’m Sruthi, a passionate web developer. 
+
+I constantly explore new technologies to enhance my skills and love to learn and share with others.
 
 ## 💻 My Skills:
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)](https://sass-lang.com/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -10,14 +14,3 @@ Hi there! I’m Sruthi, a passionate web developer.
 
 ## 🌐 Explore My Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SruthiKrish19/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sruthisurya2019/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sruthi-krishnakumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sruthi_.__/)
-
-## 📊 GitHub Stats:
-<div>
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width="400em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiKrish19&layout=compact&show_icons=true" width="400em"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SruthiKrish19" width="400em" height="200em" />
-</div>
-
-## 🔢 Profile Visitor Count
-<img src="https://profile-counter.glitch.me/SruthiKrish19/count.svg" />
