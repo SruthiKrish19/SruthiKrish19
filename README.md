@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sruthi Krishnakumar</h1>
-<h3 align="center">Fullstack Software Engineer | 3+ YoE | React · TypeScript · Python · Flask · AI</h3>
+<h3 align="center">Software Engineer | 3+ YoE | React · TypeScript · Python · Flask · AI</h3>
 
 <p align="center">
   <a href="https://sruthikrishnakumar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
