@@ -12,7 +12,7 @@
 
 ### About Me
 
-Fullstack Software Engineer with 3+ years of experience building scalable, production-grade web applications using React, TypeScript, Python (Flask/FastAPI), and Node.js. Currently at **Saama Technologies**, where I architect micro-frontend systems, design mono-repo setups, and integrate AI-driven solutions into real-world products. Strong ownership mindset with a track record of delivering 80+ features, earning a **CEO Award**, and winning **global hackathons**.
+Fullstack Software Engineer with 3+ years of experience building scalable, production-grade web applications using React, TypeScript, Python (Flask/FastAPI), and Node.js. Currently at **Saama Technologies**, where I architect micro-frontend systems, design mono-repo setups, build full-stack features and integrate AI-driven solutions into real-world products. Strong ownership mindset with a track record of delivering 80+ features, earning a **CEO Award**, and winning **global hackathons**.
 
 ---
 
